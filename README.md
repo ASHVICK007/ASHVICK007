@@ -13,7 +13,6 @@
 ```javascript
 const ashvick = {
     pronouns: "he/him",
-    location: "🌍 Earth",
     currentFocus: "Building cool stuff & learning new tech",
     askMeAbout: ["web dev", "tech", "coding", "music"],
     technologies: {
@@ -22,7 +21,7 @@ const ashvick = {
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+
 };
 ```
 
