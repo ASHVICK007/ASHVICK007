@@ -31,10 +31,9 @@ const ashvick = {
 ## 🎯 What I'm Up To
 
 🔭 **Currently Working On:** Building innovative projects that solve real problems  
-🌱 **Currently Learning:** Advanced JavaScript patterns, Cloud Architecture, and AI/ML  
+🌱 **Currently Learning:** DSA , React, Next.js and AI/ML  
 👯 **Looking to Collaborate On:** Open source projects, hackathons, and exciting startups  
 💬 **Ask Me About:** Web development, programming tips, or the best coffee spots ☕  
-⚡ **Fun Fact:** I can speak in binary... 01001000 01101001! 👋
 
 ---
 
