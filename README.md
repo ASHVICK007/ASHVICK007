@@ -71,16 +71,15 @@ const ashvick = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHVICK007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHVICK007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHVICK007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHVICK007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHVICK007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHVICK007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=ASHVICK007&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHVICK007&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
+
 </div>
 
 ---
